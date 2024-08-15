@@ -6,7 +6,7 @@ opencv-python
 Pillow
 pyyaml
 requests
-scikit-image
+scikit-image==0.23.2
 scipy
 tb-nightly
 torch>=1.7
